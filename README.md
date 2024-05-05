@@ -1,4 +1,4 @@
-############################### Hi 👋, I'm Pranjal
+### Hi 👋, I'm Pranjal
 
 <!--
 **Pranjalbharat/Pranjalbharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
